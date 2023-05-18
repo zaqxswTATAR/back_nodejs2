@@ -9,5 +9,7 @@
 npm run server
 ```
 See Restaurants API result [http://localhost:4000/api/restaurants](http://localhost:4000/api/restaurants)  
+or [https://back-nodejs2.vercel.app/api/restaurants](https://back-nodejs2.vercel.app/api/restaurants)    
 See Game24 API result by post request JSON in Postman that contain  
-{num1: <number 1-9>, num2: <number 1-9>, num3: <number 1-9>, num4: <number 1-9>} to [http://localhost:4000/api/game24](http://localhost:4000/api/game24)
+{num1: <number 1-9>, num2: <number 1-9>, num3: <number 1-9>, num4: <number 1-9>} to [http://localhost:4000/api/game24](http://localhost:4000/api/game24)  
+or [https://back-nodejs2.vercel.app/api/game24](https://back-nodejs2.vercel.app/api/game24)  
